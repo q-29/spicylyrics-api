@@ -1,2 +1,3 @@
-# spicylyrics-api
-A public repository for obtaining a SpicyLyrics API key.
+# SpicyLyrics API
+
+This public repository was created for obtaining a SpicyLyrics API key.
